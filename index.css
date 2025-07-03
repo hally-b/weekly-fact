@@ -2,6 +2,7 @@
 
 h1, h2 {
   font-family: "Audiowide", sans-serif;
+  text-align: center;
 }
 
 head {
@@ -11,8 +12,14 @@ head {
 }
 
 #subheading {
+    text-align: center;
     background-color: burlywood;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#alcpic {
+    border-color: blueviolet;
+    border-width: 2px;
 }
 
 body {
