@@ -1,11 +1,17 @@
 /* index.css */
 
 h1, h2 {
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Audiowide", sans-serif;
 }
 
 head {
+    text-align: center;
     background-color:bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#subheading {
+    background-color: burlywood;
     font-family: 'Courier New', Courier, monospace;
 }
 
