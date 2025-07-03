@@ -1,1 +1,15 @@
 /* index.css */
+
+h1, h2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+head {
+    background-color:bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
